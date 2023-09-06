@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/background.png</file>
+        <file>picture/bullet.png</file>
+        <file>picture/floor_colla.gif</file>
+        <file>picture/obs2.png</file>
+        <file>picture/spacemachinegunner.gif</file>
+        <file>picture/bomb-2.png</file>
+        <file>picture/hero_status1.png</file>
+        <file>picture/hero_status2.png</file>
+        <file>picture/hero_status3.png</file>
+        <file>picture/hero_status4.png</file>
+        <file>picture/hero_status5.png</file>
+        <file>picture/hero_status6.png</file>
+        <file>picture/hero_status7.png</file>
+        <file>picture/bomb3.png</file>
+        <file>picture/bomb_monster.gif</file>
+        <file>picture/fire_mon.gif</file>
+        <file>picture/ball.gif</file>
+        <file>picture/end_lose.webp</file>
+        <file>picture/end_win.png</file>
+        <file>picture/food_blood.png</file>
+        <file>picture/food_exp.png</file>
+        <file>picture/Orange.gif</file>
+        <file>picture/Pepsi.gif</file>
+        <file>picture/cola.gif</file>
+        <file>picture/bgm.mp3</file>
+    </qresource>
+</RCC>
